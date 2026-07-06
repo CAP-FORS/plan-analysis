@@ -1,0 +1,485 @@
+{
+  "document_meta": {
+    "document_id": "swap_wa_2025_draft",
+    "title": "Washington's State Wildlife Action Plan, Third edition, revised 2025 (DRAFT)",
+    "year": 2025,
+    "jurisdiction": "Washington",
+    "document_type": "SWAP",
+    "page_count": 277
+  },
+  "coding_meta": {
+    "coder": "llm:claude-opus-4-7",
+    "codebook_version": "0.1",
+    "coded_at": "2026-05-13T15:30:00Z",
+    "notes": "DRAFT document; document explicitly notes pagination will be updated and in-text refs moved to footnotes prior to final delivery. Coding is on the October 2025 draft. All quotes verbatim from pdftotext --layout extraction; minor OCR/typesetting artifacts (e.g., 'Overserved' for 'Observed') preserved."
+  },
+  "concepts": {
+    "climate_vulnerability": {
+      "score": 3,
+      "evidence": [
+        {
+          "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
+          "location": "p. 22 (Resilience section)",
+          "sub_component": "framework_overview",
+          "citations": ["NOAA 2022"]
+        },
+        {
+          "text": "Some species are highly sensitive to temperature shifts or struggle with repeated exposure to habitat loss due to altered hydrological cycles, increased fire frequency, or sea level rise.",
+          "location": "p. 22",
+          "sub_component": "exposure",
+          "citations": []
+        },
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat need or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "p. 22",
+          "sub_component": "adaptive_capacity",
+          "citations": []
+        }
+      ],
+      "absence_note": null
+    },
+    "adaptive_capacity_specificity": {
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Species with low adaptive capacity such as those with specialized habitat need or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "p. 22",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "WDFW incorporated vulnerability assessments into Chapter 5 of the 2015 SWAP considering sensitivity, exposure, and adaptive capacity across most SGCN and related habitats.",
+          "location": "p. 23",
+          "sub_component": null,
+          "citations": ["WDFW 2015", "EcoAdapt 2015"]
+        },
+        {
+          "text": "These assessments highlighted species at greatest risk due to factors such as physiological limitations, habitat specialization, and low dispersal ability.",
+          "location": "p. 23",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": null
+    },
+    "adaptive_capacity_components": {
+      "demography": {
+        "present": false,
+        "evidence": []
+      },
+      "distribution": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Climate corridors are distinct from traditional wildlife corridors because they are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+            "location": "p. 76 (Connectivity section)",
+            "sub_component": "distribution",
+            "citations": ["Krosby et al. 2010"]
+          }
+        ]
+      },
+      "movement": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "corridors can act as a pathway for species to shift their geographic ranges in response to a changing climate.",
+            "location": "p. 76",
+            "sub_component": "movement",
+            "citations": ["Krosby et al. 2010"]
+          },
+          {
+            "text": "Enhances population resilience: contributes to the ability of populations to adapt to environmental stressors like climate change by allowing for range shifts.",
+            "location": "p. 77",
+            "sub_component": "movement",
+            "citations": []
+          }
+        ]
+      },
+      "evolutionary_potential": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Corridors facilitate gene flow by allowing individuals to move between populations to find mates. This genetic exchange enhances the overall genetic variability of metapopulations, reducing their vulnerability to demographic stochasticity and preventing inbreeding depression, thereby making them more resilient to environmental fluctuations.",
+            "location": "p. 76",
+            "sub_component": "evolutionary_potential",
+            "citations": ["Packer et al. 1991", "Cushman 2006"]
+          }
+        ]
+      },
+      "ecological_dependencies": {
+        "present": false,
+        "evidence": []
+      },
+      "abiotic_niche": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species' physiological limits are tested as shifting temperatures, altered hydrology, and changing seasonal cues affect survival, reproduction, and migration.",
+            "location": "p. 22",
+            "sub_component": "abiotic_niche",
+            "citations": []
+          }
+        ]
+      },
+      "life_history": {
+        "present": false,
+        "evidence": []
+      }
+    },
+    "connectivity": {
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Climate corridors are distinct from traditional wildlife corridors because they are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+          "location": "p. 76",
+          "sub_component": "climate_connectivity",
+          "citations": ["Krosby et al. 2010"]
+        },
+        {
+          "text": "Riparian corridors also function as climate corridors, allowing species to move up in elevation in response to warming temperatures.",
+          "location": "p. 77",
+          "sub_component": "climate_connectivity",
+          "citations": []
+        },
+        {
+          "text": "the Cascades constitute a critical pathway for climate connectivity at a continental scale.",
+          "location": "p. 78",
+          "sub_component": "climate_connectivity",
+          "citations": []
+        }
+      ],
+      "absence_note": null
+    }
+  },
+  "tools": {
+    "vulnerability_models": {
+      "score": 2,
+      "named_tools": [
+        "Sensitivity-Exposure-Adaptive Capacity vulnerability assessment framework",
+        "NatureServe Climate Change Vulnerability Index (via WA DNR rare plant CCVI reports)",
+        "EcoAdapt Climate Vulnerability Assessment Cheat Sheet (2015)"
+      ],
+      "evidence": [
+        {
+          "text": "WDFW incorporated vulnerability assessments into Chapter 5 of the 2015 SWAP considering sensitivity, exposure, and adaptive capacity across most SGCN and related habitats.",
+          "location": "p. 23",
+          "sub_component": null,
+          "citations": ["WDFW 2015", "EcoAdapt 2015"]
+        },
+        {
+          "text": "rare plant species-specific vulnerability analyses",
+          "location": "p. 23 footnote 28",
+          "sub_component": null,
+          "citations": ["Washington Department of Natural Resources 2020-2024"]
+        },
+        {
+          "text": "This and a great deal of new information is considered by Subject Matter Experts (SMEs) and the conservation community in the 2025 SWAP to identify SGCN, important habitats, landscape-level conservation needs, and actions for their conservation.",
+          "location": "p. 23",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 2 reflects that prior vulnerability assessment results (2015 SWAP's sensitivity/exposure/adaptive-capacity assessments, WA DNR's rare plant CCVI reports) are substantively incorporated into the 2025 plan's SGCN identification and conservation action selection. The document does not perform NEW vulnerability modeling in this revision. Reference list also cites Washington DNR (2020-2024) Climate Change Vulnerability Index Reports for Selected State Rare Plant Species: Phases 1-4."
+    },
+    "niche_models": {
+      "score": 1,
+      "named_tools": [
+        "Species distribution models (recommended for future development)"
+      ],
+      "evidence": [
+        {
+          "text": "Species distribution models. Develop and document non-salmonid species distribution model methods that can include/be related to WDFW and WA DNR institutional data sets, HUC10 watersheds, NVC Groups, and spatial data representation of GET Functional Groups for Washington state",
+          "location": "p. 208 (SWAP Planning Recommendations)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "SDMs are mentioned only as a recommendation for future plan revisions. No niche modeling is applied to the plan's subject species in this document."
+    },
+    "climate_models": {
+      "score": 0,
+      "named_tools": [],
+      "evidence": [],
+      "absence_note": "The document discusses climate change extensively in qualitative terms (warmer temperatures, altered precipitation, earlier snowmelt, sea level rise) but does not reference specific climate models, emission scenarios (RCP/SSP), GCMs, downscaled projections, or climate analog tools. Climate change is treated as an observed and ongoing stressor rather than a modeled future projection.",
+      "time_horizon_years": [],
+      "emission_scenarios": []
+    },
+    "connectivity_models": {
+      "score": 2,
+      "named_tools": [
+        "Washington Habitat Connectivity Action Plan (WAHCAP)",
+        "Connected Landscapes of Statewide Significance (Michalak et al. 2025)"
+      ],
+      "evidence": [
+        {
+          "text": "The WAHCAP spatial data on ArcGIS Online provides a set of spatial layers depicting different types of connectivity functions including structural ecosystem connectivity, network importance, landscape permeability, focal species connectivity, climate connectivity, and existing prioritized networks.",
+          "location": "p. 77",
+          "sub_component": null,
+          "citations": ["Michalak et al. 2025"]
+        },
+        {
+          "text": "The platform also includes a layer illustrating how these individual cores and corridors are integrated into 13 terrestrial Connected Landscapes of Statewide Significance (Figure 12).",
+          "location": "p. 77 (and Figure 12 p. 80)",
+          "sub_component": null,
+          "citations": ["Michalak et al. 2025"]
+        }
+      ],
+      "absence_note": "Score 2 reflects that connectivity-modeling output (WAHCAP's spatial layers including a climate-connectivity layer) is directly incorporated into the plan's identification of 13 Connected Landscapes of Statewide Significance shown in Figure 12. The document does not name the underlying modeling software (e.g., CircuitScape, Omniscape), but uses the modeled connectivity output for management planning."
+    }
+  },
+  "context": {
+    "management_scale": {
+      "score": 2,
+      "evidence": [
+        {
+          "text": "Statewide and Transboundary Conservation Needs",
+          "location": "p. 145 (section heading)",
+          "sub_component": "regional_scale",
+          "citations": []
+        },
+        {
+          "text": "Washington's conservation communities have worked on habitat connectivity issues, information gathering, analyses and modeling, and best practices for decades at species, ecoregion, state and transboundary scales",
+          "location": "p. 23",
+          "sub_component": "regional_scale",
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 2: the document is structured around statewide and transboundary conservation needs plus nine ecoregional chapters (Blue Mountains, Columbia Plateau, Coast Range, East Cascades Slopes and Foothills, North Cascades, Northern Rockies, Puget Lowland, West Cascades, Willamette Valley) and HUC10 watershed-level data."
+    },
+    "biological_unit_score": {
+      "score": 2,
+      "evidence": [
+        {
+          "text": "What we understand about species and their needs, habitats, systems, and impacts to sustainability is constantly evolving.",
+          "location": "p. 36 (Conservation Actions)",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Landscape to local connectivity is also essential for plant communities, habitats, and system natural functions",
+          "location": "p. 24",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 2: the document explicitly organizes conservation around multiple biological units - Species of Greatest Conservation Need (SGCN), Species of Greatest Information Need (SGIN), Habitats of Greatest Conservation Need (HGCN, with three subtypes), Vulnerable Concentrations, and ecosystems."
+    },
+    "biological_unit_components": {
+      "species": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Species of Greatest Conservation Need (SGCN) VERTEBRATES AND INVERTEBRATES",
+            "location": "p. 243 (Appendix D1)",
+            "sub_component": "species",
+            "citations": []
+          }
+        ]
+      },
+      "population": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Subpopulation ranges. Using the HUC 10 structure, identify terrestrial and freshwater SGCN subpopulations and update the SWAP database so that data displays can be searched on the SGCN subpopulations of concern.",
+            "location": "p. 208",
+            "sub_component": "population",
+            "citations": []
+          }
+        ]
+      },
+      "habitat": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "SWAP Habitats: HGCN",
+            "location": "p. 60 (section heading)",
+            "sub_component": "habitat",
+            "citations": []
+          }
+        ]
+      },
+      "ecosystem": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Anthropogenic climate change is altering ecosystems across spatial and temporal scales. Overserved impacts include range shifts, phenological mismatches, altered disturbance regimes, and increased physiological stress on species",
+            "location": "p. 67 (Refugia section)",
+            "sub_component": "ecosystem",
+            "citations": ["Parmesan 2006", "Pacifici et al. 2015"]
+          }
+        ]
+      },
+      "community": {
+        "present": true,
+        "evidence": [
+          {
+            "text": "Landscape to local connectivity is also essential for plant communities, habitats, and system natural functions: plant gene flow, pollination, and seed dispersal",
+            "location": "p. 24",
+            "sub_component": "community",
+            "citations": []
+          }
+        ]
+      },
+      "genotype_phenotype": {
+        "present": false,
+        "evidence": []
+      },
+      "named_entities": [
+        "Species of Greatest Conservation Need (SGCN)",
+        "Species of Greatest Information Need (SGIN)",
+        "Habitats of Greatest Conservation Need (HGCN)",
+        "northern leopard frog",
+        "woodland caribou",
+        "salmon",
+        "Southern Resident orca",
+        "shrubsteppe (HGCN)",
+        "westside prairie",
+        "riparian habitat",
+        "kelp forests",
+        "eelgrass",
+        "Blue Mountains ecoregion",
+        "Columbia Plateau ecoregion",
+        "Coast Range ecoregion",
+        "East Cascades Slopes and Foothills ecoregion",
+        "North Cascades ecoregion",
+        "Northern Rockies ecoregion",
+        "Puget Lowland ecoregion",
+        "West Cascades ecoregion",
+        "Willamette Valley ecoregion"
+      ]
+    },
+    "partnerships_and_funding": {
+      "score": 1,
+      "evidence": [
+        {
+          "text": "WDFW requested $47.6 million in biodiversity conservation funding in the 2023-25 operating budget for partial SWAP implementation and other key biodiversity actions. The agency received partial funding",
+          "location": "p. 12",
+          "sub_component": "funding_gap",
+          "citations": []
+        },
+        {
+          "text": "a tough state budget cycle in 2025 and a reduced state revenue forecast permanently reduced WDFW's funding for that work",
+          "location": "p. 12",
+          "sub_component": "funding_gap",
+          "citations": []
+        },
+        {
+          "text": "Most states, including Washington, cobble together many funding sources to implement a fraction of their SWAP.",
+          "location": "p. 12",
+          "sub_component": "funding_gap",
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 1 reflects mixed signal: active and well-developed partnerships (Tribes via NWIFC Wildlife Committee, USFWS Pacific Region, NGOs, state agencies, AFWA, advisory councils) coexist with an explicit and substantial funding gap. The 0/1/2 scale does not cleanly separate 'strong partnerships + constrained funding' from 'partnerships+funding both limited'. Flagging for IRR discussion and possible codebook refinement."
+    },
+    "climate_threat_habitat_degradation": {
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Washington ecosystems are experiencing the effects of more and different disruptions than were understood just ten or twenty years ago: intense and frequent droughts; earlier, hotter, or longer-lasting summer heat; less of snowpack and earlier snow melt; bigger storms and more destructive flooding and erosion; more frequent and/or hotter wildfires; and significant shoreline changes.",
+          "location": "p. 22",
+          "sub_component": null,
+          "citations": ["NOAA 2022"]
+        },
+        {
+          "text": "As the climate changes, eastern Washington is facing even hotter and drier summers than were historically typical, and the state, like others, is experiencing extreme weather events, prolonged droughts and heatwaves. These put more demand on moisture-limited systems",
+          "location": "p. 117 (Shrubsteppe context)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": null
+    },
+    "climate_threat_species_mortality": {
+      "score": 0,
+      "evidence": [],
+      "absence_note": "Wildfires and pathogens are extensively discussed, but the framing in this document is overwhelmingly about habitat degradation, ecosystem stress, and altered disturbance regimes rather than direct species mortality from climate-induced events. The OneHealth section discusses disease emergence but is not specifically framed as climate-induced mortality. Score 0 reflects the codebook's requirement that species mortality from climate-induced events be 'specifically discussed' - the framing here is one degree removed (habitat -> species, not climate event -> mortality)."
+    },
+    "climate_threat_invasion_succession": {
+      "score": 1,
+      "evidence": [
+        {
+          "text": "These disruptions impact food timing and availability, intensity and frequency of disturbances (wildfire and drought), and can favor invasive species.",
+          "location": "p. 22",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Climate influence on natural movement. Some species were considered even if not native to Washington now, due to the influence of weather patterns, phenology shifts, and vegetation changes that influence habitat suitability.",
+          "location": "p. 215 (Appendix C1)",
+          "sub_component": null,
+          "citations": []
+        }
+      ],
+      "absence_note": "The document discusses climate-favored conditions for invasive species and acknowledges climate-driven changes in habitat suitability that may bring new species in. The framing is brief but explicit."
+    }
+  },
+  "actions": {
+    "priority_habitat_restoration": {
+      "score": 2,
+      "evidence": [
+        {
+          "text": "The platform also includes a layer illustrating how these individual cores and corridors are integrated into 13 terrestrial Connected Landscapes of Statewide Significance (Figure 12).",
+          "location": "p. 77 (and Figure 12 p. 80)",
+          "sub_component": "spatial_representation",
+          "citations": ["Michalak et al. 2025"]
+        },
+        {
+          "text": "Recognizing the importance of these areas, recent conservation planning frameworks have integrated climate refugia into spatial prioritization and adaptive management strategies. These approaches aim to identify and protect areas that offer bioclimatic stability and ecological resilience under climate change.",
+          "location": "p. 68 (Refugia section)",
+          "sub_component": "priority_areas",
+          "citations": []
+        },
+        {
+          "text": "Consider refugia protection in land use planning decisions, site protection and conservation incentives, water quality and quantity decisions, and landscape core and connectivity planning.",
+          "location": "p. 68 (Refugia Conservation Recommendations)",
+          "sub_component": "priority_areas",
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 2: spatial representation includes Figure 12 (Statewide Landscape Connectivity Value, Michalak et al. 2025), 13 Connected Landscapes of Statewide Significance, HGCN priority habitats organized across nine ecoregion chapters, and recommendations to integrate climate refugia spatial prioritization."
+    },
+    "range_shift_facilitation": {
+      "score": 1,
+      "evidence": [
+        {
+          "text": "Climate corridors are distinct from traditional wildlife corridors because they are explicitly designed to connect habitats along a climate gradient allowing altitudinal and latitudinal range shifts.",
+          "location": "p. 76",
+          "sub_component": "structural_facilitation",
+          "citations": ["Krosby et al. 2010"]
+        },
+        {
+          "text": "Enhances population resilience: contributes to the ability of populations to adapt to environmental stressors like climate change by allowing for range shifts.",
+          "location": "p. 77",
+          "sub_component": "structural_facilitation",
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 1 reflects facilitation via STRUCTURAL means (climate corridors, connectivity planning). The document discusses translocation, captive rearing, and reintroduction (e.g., northern leopard frog) in other contexts, but those are framed for species recovery, not as assisted-migration responses to climate-driven range shifts. The codebook's element 4.2 indicators include corridors, which supports score 1; if the codebook intends 4.2 to capture only direct manipulation of organisms (translocation/assisted migration), this score should drop to 0 and connectivity-as-facilitation would be captured under element 1.4 instead. Flagging for codebook refinement (see refinement_notes.md)."
+    },
+    "time_bound_and_monitoring": {
+      "score": 1,
+      "evidence": [
+        {
+          "text": "At a minimum, the SWAP will be reviewed and updated in ten years, or sooner if partnership, content, or conservation urgency requires it",
+          "location": "p. 36 (Element 6)",
+          "sub_component": "deadlines",
+          "citations": []
+        },
+        {
+          "text": "Effectiveness monitoring is recommended as part of project-level planning.",
+          "location": "p. 36 (Element 5)",
+          "sub_component": "monitoring",
+          "citations": []
+        },
+        {
+          "text": "Conservation implementation is guided by monitoring and being able to make changes in light of new information",
+          "location": "p. 33 (Monitor, Learn, Adapt, and Communicate)",
+          "sub_component": "monitoring",
+          "citations": []
+        }
+      ],
+      "absence_note": "Score 1: the PLAN is time-bound (10-year revision cycle) and explicitly endorses adaptive management and effectiveness monitoring as principles. However, individual conservation actions in the SGCN/HGCN tables are not generally specified with explicit action-level deadlines - they are framed as ongoing recommendations. Score 2 would require both deadlines AND effectiveness monitoring at the action level; this document does so only at plan and project levels. Flagging plan-vs-action distinction for codebook refinement."
+    }
+  }
+}
